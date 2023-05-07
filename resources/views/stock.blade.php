@@ -1,0 +1,81 @@
+<p class="text-gray-600 text-sm md:text-xl lg:text-sm mt-4">Date de naissance</p>
+        <div class="flex flex-row ">
+            <select name="date_of_birth" class="border-2 border-gray-400 rounded-sm px-4">
+                <option value="date_of_birth">1</option>
+                <option value="date_of_birth">2</option>
+                <option value="date_of_birth">3</option>
+                <option value="date_of_birth">4</option>
+                <option value="date_of_birth">5</option>
+                <option value="date_of_birth">6</option>
+                <option value="date_of_birth">8</option>
+                <option value="date_of_birth">9</option>
+                <option value="date_of_birth">10</option>
+                <option value="date_of_birth">11</option>
+                <option value="date_of_birth">12</option>
+                <option value="date_of_birth">13</option>
+                <option value="date_of_birth">14</option>
+                <option value="date_of_birth">15</option>
+                <option value="date_of_birth">16</option>
+                <option value="date_of_birth">17</option>
+                <option value="date_of_birth">18</option>
+                <option value="date_of_birth">19</option>
+                <option value="date_of_birth">20</option>
+                <option value="date_of_birth">21</option>
+                <option value="date_of_birth">22</option>
+                <option value="date_of_birth">23</option>
+                <option value="date_of_birth">24</option>
+                <option value="date_of_birth">25</option>
+                <option value="date_of_birth">26</option>
+                <option value="date_of_birth">27</option>
+                <option value="date_of_birth">28</option>
+                <option value="date_of_birth">29</option>
+                <option value="date_of_birth">30</option>
+                <option value="date_of_birth">31</option>
+            </select>
+            <select name="date_of_birth" class="border-2 border-gray-400 rounded-sm px-2 mx-1">
+                <option value="j-1">jan</option>
+                <option value="date_of_birth">fev</option>
+                <option value="date_of_birth">mar</option>
+                <option value="date_of_birth">avr</option>
+                <option value="date_of_birth">mai</option>
+                <option value="date_of_birth">jun</option>
+                <option value="">juil</option>
+                <option value="j-1">août</option>
+                <option value="j-1">sep</option>
+                <option value="j-1">oct</option>
+                <option value="j-1">nov</option>
+                <option value="j-1">dec</option>
+            </select>
+            <select name="date_of_birth" class="border-2 border-gray-400 rounded-sm px-2">
+                <option value="j-1">1990</option>
+                <option value="j-1">1991</option>
+                <option value="date_of_birth">1992</option>
+                <option value="j-1">1993</option>
+                <option value="j-1">1994</option>
+                <option value="j-1">1995</option>
+                <option value="j-1">1996</option>
+                <option value="j-1">1997</option>
+                <option value="j-1">1998</option>
+                <option value="j-1">1999</option>
+                <option value="j-1">2000</option>
+                <option value="j-1">2001</option>
+                <option value="j-1">2002</option>
+                <option value="j-1">2003</option>
+                <option value="j-1">2004</option>
+                <option value="j-1">2005</option>
+                <option value="j-1">2006</option>
+                <option value="j-1">2007</option>
+                <option value="j-1">2008</option>
+                <option value="j-1">2009</option>
+                <option value="j-1">2011</option>
+                <option value="j-1">2012</option>
+                <option value="j-1">2013</option>
+                <option value="j-1">2014</option>
+                <option value="j-1">2015</option>
+                <option value="j-1">2016</option>
+                <option value="j-1">2017</option>
+                <option value="j-1">2018</option>
+                <option value="j-1">2019</option>
+                <option value="j-1">2020</option>
+            </select>
+        </div>
